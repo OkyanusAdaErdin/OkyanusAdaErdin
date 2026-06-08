@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Html , Css**
 
-- 🌱 I’m currently learning **Css , Javascript**
+- 🌱 I’m currently learning **Css , Javascript and Pascal**
 
 - 💬 Ask me about **Html**
 
